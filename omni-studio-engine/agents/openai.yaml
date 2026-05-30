@@ -1,0 +1,16 @@
+display_name: Omni Studio Engine
+short_description: Figma-to-production delivery engine.
+default_prompt: |
+  Use Omni Studio Engine
+
+  Figma:
+  <figma-url>
+
+  目标：
+  将整个项目开发并部署上线
+
+  要求：
+  - 100%还原
+  - 保持设计系统一致
+  - 自动生成组件库
+  - 自动部署
